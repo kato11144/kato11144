@@ -1,4 +1,8 @@
-## Hi there 👋
+### Hi there 👋
+
+<div align="left">
+    <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kato11144&theme=dark&layout=compact"/>
+</div>
 
 <!--
 **kato11144/kato11144** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
